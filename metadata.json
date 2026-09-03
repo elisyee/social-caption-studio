@@ -1,0 +1,6 @@
+{
+  "name": "Social Caption Studio: Malaysian Shipping Guide",
+  "description": "Multi-platform social media captions and generator for Malaysian importers and exporters across Instagram, TikTok, LinkedIn, and Facebook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
